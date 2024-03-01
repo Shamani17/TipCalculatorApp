@@ -1,0 +1,51 @@
+body{
+    background-color:rgb(2, 2, 31);
+}
+.container
+{
+    height:550px;
+    width:500px;
+    margin-left: 500px;
+    margin-top: 40px;
+    background-color:rgb(177, 179, 200);
+    border-radius: 25px;
+    padding:20px;
+    border: 25px;
+    border-style:double;
+    border-width: 6px;
+    border-color: white;
+}
+.headings
+{
+    color:black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.form-control
+{
+    height:30px;
+    width:450px;
+    text-align: center;
+}
+.btn,#number
+{
+    display:inline-block;
+    font-size:x-large;
+    height:35px;
+    width:35px;
+    background-color:white;
+    color:blueviolet
+}
+.btn:hover
+{
+    background-color:black;
+    color:antiquewhite
+}
+.btn:active
+{
+    background-color: #580d19;
+}
+#perPerson
+{
+    color:#05313f;
+    font-size: larger;
+}
